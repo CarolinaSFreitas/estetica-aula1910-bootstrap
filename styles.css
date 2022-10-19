@@ -1,0 +1,18 @@
+.bg-estetica {
+    background: rgb(92,215,183);
+    background: linear-gradient(90deg, rgba(92,215,183,1) 0%, rgba(63,173,144,1) 51%, rgba(44,130,122,1) 100%);
+}
+
+.mt-estetica{
+    margin-top: 120px;
+}
+
+.btn-violeta{
+    background-color: #ca0763;
+    text-transform: uppercase;
+    color: #f1f1f1;
+}
+
+img{
+    border-radius: 4px;
+}
